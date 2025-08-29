@@ -3,7 +3,7 @@
 ## Description
 This dataset contains 200000 pieces of multilingual text content, covering four languages: French, German, Spanish, and Italian, with 50000 pieces of data in each language. These data cover over 200 categories, including architecture, animals, automobiles, catering, movies, zodiac signs, cybersecurity, and more. Provides abundant resources for diverse language learning and text analysis.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1514?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/llm/1514?source=Github
 
 ## Specifications
 ### Data content
